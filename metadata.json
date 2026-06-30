@@ -1,0 +1,6 @@
+{
+  "name": "WA Status Viewer",
+  "description": "Aplikasi sederhana untuk melihat status WhatsApp secara anonim dengan membaca cache lokal perangkat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
